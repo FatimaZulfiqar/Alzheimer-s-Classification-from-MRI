@@ -1,1 +1,1 @@
-# Alzheimer-s-Classification-from-MRI
+# Alzheimer's-Classification-from-MRI
